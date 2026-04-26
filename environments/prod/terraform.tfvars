@@ -1,0 +1,6 @@
+project     = "devops-app"
+environment = "prod"
+aws_region  = "eu-central-1"
+ami_id      = "ami-0c02fb55956c7d316"
+db_name     = "appdb"
+db_username = "admin"
